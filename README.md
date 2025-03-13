@@ -1,5 +1,6 @@
 🛠️ Générateur de Mot de Passe avec Tkinter 🔐
-Ce projet est une application simple de génération de mots de passe, développée en utilisant Tkinter, la bibliothèque d'interface graphique standard de Python. Le générateur permet aux utilisateurs de créer des mots de passe sécurisés de différentes longueurs et compositions, incluant des lettres majuscules, des lettres minuscules, des chiffres et des caractères spéciaux.
+Ce projet est une application de génération de mots de passe, développée en utilisant Tkinter, la bibliothèque d'interface graphique standard de Python. 
+Le générateur permet aux utilisateurs de créer des mots de passe sécurisés de différentes longueurs et compositions, incluant des lettres majuscules, des lettres minuscules, des chiffres et des caractères spéciaux.
 
 Fonctionnalités 🌟
 📱 Interface utilisateur intuitive et conviviale
